@@ -1,0 +1,2 @@
+print('привет')
+print('fnton')
